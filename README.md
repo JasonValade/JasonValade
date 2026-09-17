@@ -2,19 +2,18 @@
   <a href="https://github.com/JasonValade">
     <img
       src="https://upload.wikimedia.org/wikipedia/commons/f/fb/Michigan_Wolverines_logo.svg"
-      height="72"
+      height="68"
       alt="University of Michigan Block M"
     />
-    <img
-      src="https://capsule-render.vercel.app/api?type=transparent&fontColor=FFCB05&fontSize=54&height=90&width=602&text=Hello!%20I'm%20Jason"
-      alt="Hello! I'm Jason"
-    />
   </a>
-</p>
-
-<p align="center">
+  <br>
   <img
-    src="https://readme-typing-svg.demolab.com?font=Caveat&weight=600&size=26&pause=1000&color=2F81F7&center=true&vCenter=true&width=900&height=44&lines=Data%20Science%20%40%20University%20of%20Michigan;Building%20practical%20tools%20with%20data%2C%20machine%20learning%2C%20and%20software"
+    src="https://capsule-render.vercel.app/api?type=transparent&fontColor=FFCB05&fontSize=54&height=72&width=700&text=Hello!%20I'm%20Jason"
+    alt="Hello! I'm Jason"
+  />
+  <br>
+  <img
+    src="https://readme-typing-svg.demolab.com?font=Caveat&weight=600&size=26&pause=1000&color=2F81F7&center=true&vCenter=true&width=850&height=36&lines=Data%20Science%20%40%20University%20of%20Michigan;Building%20practical%20tools%20with%20data%2C%20machine%20learning%2C%20and%20software"
     alt="Typing headlines"
   />
 </p>
@@ -60,10 +59,16 @@ I'm a Data Science student at the University of Michigan interested in using dat
 
 <p align="left">
   <a href="https://www.linkedin.com/in/jason-valade">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    <img
+      src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"
+      alt="LinkedIn"
+    />
   </a>
   <a href="mailto:jvalade@umich.edu">
-    <img src="https://img.shields.io/badge/Email-FFCB05?style=for-the-badge&logo=gmail&logoColor=00274C" alt="Email" />
+    <img
+      src="https://img.shields.io/badge/Email-FFCB05?style=for-the-badge&logo=gmail&logoColor=00274C"
+      alt="Email"
+    />
   </a>
 </p>
 
