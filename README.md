@@ -13,9 +13,9 @@
   />
   <br>
   <img
-    src="https://readme-typing-svg.demolab.com?font=Caveat&weight=600&size=26&pause=1000&color=2F81F7&center=true&vCenter=true&width=850&height=36&lines=Data%20Science%20%40%20University%20of%20Michigan;Building%20practical%20tools%20with%20data%2C%20machine%20learning%2C%20and%20software"
-    alt="Typing headlines"
-  />
+  src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=1000&color=2F81F7&center=true&vCenter=true&width=900&height=50&lines=Data%20Science%20%40%20University%20of%20Michigan;Building%20practical%20tools%20with%20data%2C%20machine%20learning%2C%20and%20software"
+  alt="Typing headlines"
+/>
 </p>
 
 ### 🚀 About Me
