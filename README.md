@@ -28,6 +28,34 @@ I'm a Data Science student at the University of Michigan interested in using dat
 💬 &nbsp;Ask me about **Python, SQL, BigQuery, machine learning, and full-stack development**  
 ⚡ &nbsp;Fun fact: **My experience recovering from an ACL and meniscus tear inspired me to build RehabPro**
 
+### 🌟 Featured Projects
+
+#### 📊 Google Merchandise Store Funnel Analysis
+
+Analyzed more than **4.3 million ecommerce events** using SQL, BigQuery, and Python. Built an interactive dashboard and machine-learning model to identify conversion patterns across devices and products.
+
+<p>
+  <a href="https://app-store-funnel-analysis.streamlit.app/methodology">
+    <img
+      src="https://img.shields.io/badge/Explore%20the%20Analysis-FFCB05?style=for-the-badge&logo=streamlit&logoColor=00274C"
+      alt="Explore the Google Store analysis"
+    />
+  </a>
+</p>
+
+#### 🏥 RehabPro
+
+A patient follow-up platform that helps physical therapists provide guided recovery plans, monitor progress, and receive symptom updates between appointments.
+
+<p>
+  <a href="https://rehabpro-gamma.vercel.app/">
+    <img
+      src="https://img.shields.io/badge/Visit%20RehabPro-00274C?style=for-the-badge&logo=vercel&logoColor=FFCB05"
+      alt="Visit RehabPro"
+    />
+  </a>
+</p>
+
 ### 🛠️ Tech Stack
 
 <p align="left">
