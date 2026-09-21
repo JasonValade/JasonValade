@@ -13,19 +13,19 @@
   />
   <br>
   <img
-  src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=1000&color=2F81F7&center=true&vCenter=true&width=900&height=50&lines=Data%20Science%20%40%20University%20of%20Michigan;Building%20practical%20tools%20with%20data%2C%20machine%20learning%2C%20and%20software"
-  alt="Typing headlines"
-/>
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=1000&color=2F81F7&center=true&vCenter=true&width=900&height=50&lines=Data%20Science%20%26%20Economics%20%40%20University%20of%20Michigan;Using%20data%2C%20economics%2C%20and%20software%20to%20solve%20practical%20problems"
+    alt="Data Science &amp; Economics at the University of Michigan"
+  />
 </p>
 
 ### 🚀 About Me
 
-I'm a Data Science student at the University of Michigan interested in using data and software to solve practical problems. My experience includes analyzing large datasets, building machine-learning models, and developing full-stack applications.
+I'm double majoring in **Data Science and Economics at the University of Michigan**, interested in using data and software to solve practical problems and inform business decisions. My experience includes analyzing large datasets, building machine-learning models, and developing full-stack applications. I'm especially interested in how data and economic reasoning can help explain behavior and guide better decisions.
 
-🔭 &nbsp;I'm currently working on **RehabPro, a patient recovery platform for physical therapists**  
-🌱 &nbsp;I'm currently learning **machine learning, statistical modeling, and model optimization**  
-👯 &nbsp;I'm looking to collaborate on **data science, analytics, and full-stack software projects**  
-💬 &nbsp;Ask me about **Python, SQL, BigQuery, machine learning, and full-stack development**  
+🔭 &nbsp;I'm currently working on **RehabPro, a patient recovery platform for physical therapists**<br>
+🌱 &nbsp;I'm currently learning **machine learning, statistical modeling, and economic analysis**<br>
+👯 &nbsp;I'm looking to collaborate on **data science, business analytics, and full-stack software projects**<br>
+💬 &nbsp;Ask me about **Python, SQL, BigQuery, machine learning, and full-stack development**<br>
 ⚡ &nbsp;Fun fact: **My experience recovering from an ACL and meniscus tear inspired me to build RehabPro**
 
 ### 🌟 Featured Projects
@@ -106,6 +106,9 @@ A patient follow-up platform that helps physical therapists provide guided recov
   <img
     height="165"
     src="https://github-readme-stats-five-sigma-99.vercel.app/api/top-langs/?username=JasonValade&layout=compact&theme=tokyonight&title_color=FFCB05&icon_color=2F81F7&text_color=FFFFFF&hide_border=true&bg_color=00000000&langs_count=8"
+    alt="Jason Valade's most used languages on GitHub"
+  />
+</p>
     alt="Jason's most used languages"
   />
 </p>
