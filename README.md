@@ -13,14 +13,14 @@
   />
   <br>
   <img
-  src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=1000&color=2F81F7&center=true&vCenter=true&width=900&height=50&lines=Data%20Science%20%40%20University%20of%20Michigan;Building%20practical%20tools%20with%20data%2C%20machine%20learning%2C%20and%20software"
+  src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=1000&color=2F81F7&center=true&vCenter=true&width=900&height=50&lines=Economics%20%26%20Data%20Science%20%40%20University%20of%20Michigan;Building%20practical%20tools%20with%20data%2C%20machine%20learning%2C%20and%20software"
   alt="Typing headlines"
 />
 </p>
 
 ### 🚀 About Me
 
-I'm a Data Science student at the University of Michigan interested in using data and software to solve practical problems. My experience includes analyzing large datasets, building machine-learning models, and developing full-stack applications.
+I'm an Economics and Data Science double major at the University of Michigan interested in using data and software to solve practical problems. My experience includes analyzing large datasets, building machine-learning models, and developing full-stack applications.
 
 🔭 &nbsp;I'm currently working on **RehabPro, a patient recovery platform for physical therapists**  
 🌱 &nbsp;I'm currently learning **machine learning, statistical modeling, and model optimization**  
