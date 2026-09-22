@@ -109,8 +109,7 @@ A patient follow-up platform that helps physical therapists provide guided recov
     alt="Jason Valade's most used languages on GitHub"
   />
 </p>
-    alt="Jason's most used languages"
-  />
+   
 </p>
 
 ---
